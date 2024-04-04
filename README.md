@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm VSupunK</h1>
 <h3 align="center">Undergraduate at Sabaragamuwa University of Sri Lanka</h3>
-<h6>Following a degree program BSc.(Hons) in Computing & Information Systems of <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a></h6>
+<h6 align="center">Following a degree program BSc.(Hons) in Computing & Information Systems of <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a></h6>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsupunk&label=Profile%20views&color=0e75b6&style=flat" alt="vsupunk" /> </p>
