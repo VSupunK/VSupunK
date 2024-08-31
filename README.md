@@ -10,8 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX, Java, HTML**
-- 👀 I’m interested in Software/App developing, Web developing
+- 🌱 I’m currently learning **JavaScript, MERN Stack**
+- 👀 I’m interested in Software development, Web development, UI/UI designing
 
 - 📫 How to reach me **vsupunkalhara@gmail.com**
 
