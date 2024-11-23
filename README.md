@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **JavaScript, MERN Stack**
 - 👀 I’m interested in Software development, Web development, UI/UI designing
 
-- Visit my portfolio <a href="https://supun-kalhara-portfolio.netlify.app/" target="blank">
+- Visit my portfolio <a href="https://supun-kalhara-portfolio.netlify.app/" target="blank"> Supun's Portfolio </a>
 
 - 📫 How to reach me **vsupunkalhara@gmail.com**
 
